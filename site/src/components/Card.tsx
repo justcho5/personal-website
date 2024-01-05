@@ -11,10 +11,10 @@ function Card({ project }: { project: CardProps }) {
   return (
     <div className="flex-1">
       <div
-        className="h-[285px] min-w-[560px]"
+        className="h-[285px] min-w-[560px] flex justify-center"
         style={{ backgroundColor: colors[project.id - 1] }}
       >
-        Card
+        <img className="mt-[50px]" src={project.img} />
       </div>
       <div>
         <div>{project.name}</div>

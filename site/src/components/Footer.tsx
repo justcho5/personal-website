@@ -2,7 +2,7 @@ import React from "react";
 
 function Footer() {
   return (
-    <div className="flex justify-between">
+    <div className="flex justify-between lg:mt-[100px]">
       <div>
         <div>justina cho —</div>
         <div>software engineer</div>

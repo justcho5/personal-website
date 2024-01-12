@@ -1,5 +1,3 @@
-import React from "react";
-
 function Headline() {
   return (
     <div className="max-w-[975px] lg:text-[32px]">

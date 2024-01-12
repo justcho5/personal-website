@@ -1,5 +1,3 @@
-import React from "react";
-
 function Footer() {
   return (
     <div className="flex justify-between lg:mt-[100px] lg:mb-[50px]">

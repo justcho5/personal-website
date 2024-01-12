@@ -3,49 +3,49 @@
       {
         "name": "success predictor",
         "keywords": ["data", "machine learning", "deployment"],
-        "img": "./src/assets/successpredictor.png",
+        "img": "./public/successpredictor.png",
         "description":"This was the success predictor project",
         "id": 1
       },
       {
         "name": "embryo predict",
         "keywords": ["data", "machine learning", "deployment"],
-        "img": "./src/assets/successpredictor.png",
+        "img": "./public/successpredictor.png",
         "description":"This was the success predictor project",
         "id": 2
       },
       {
         "name": "notes app",
         "keywords": ["ReactJS", "NodeJS", "MongoDB", "deployment"],
-        "img": "./src/assets/successpredictor.png",
+        "img": "./public/successpredictor.png",
         "description":"This was the success predictor project",
         "id": 3
       },
       {
         "name": "phonebook app",
         "keywords": ["ReactJS", "NodeJS", "MongoDB", "deployment"],
-        "img": "./src/assets/successpredictor.png",
+        "img": "./public/successpredictor.png",
         "description":"This was the success predictor project",
         "id": 4
       },
       {
         "name": "portfolio site",
         "keywords": ["UX","React"],
-        "img": "./src/assets/successpredictor.png",
+        "img": "./public/successpredictor.png",
         "description":"This was the success predictor project",
         "id": 5
       },
       {
         "name": "publications",
         "keywords": ["science"],
-        "img": "./src/assets/successpredictor.png",
+        "img": "./public/successpredictor.png",
         "description":"This was the success predictor project",
         "id": 6
       },
       {
         "name": "hobbies",
         "keywords": ["hiking", "crossfit"],
-        "img": "./src/assets/successpredictor.png",
+        "img": "./public/successpredictor.png",
         "description":"This was the success predictor project",
         "id": 7
       }

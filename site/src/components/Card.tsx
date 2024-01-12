@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 interface CardProps {
   name: string;
   keywords: string[];
@@ -5,21 +7,31 @@ interface CardProps {
   description: string;
   id: number;
 }
-const colors = ["#4297A0", "#F4EAE6", "#E57F84", "#2F5061", "#B7CFDC"];
+const colors = [
+  "#4297A0",
+  "#F4EAE6",
+  "#E57F84",
+  "#2F5061",
+  "#B7CFDC",
+  "#FEEAA9",
+  "#F4EAE6",
+];
 
 function Card({ project }: { project: CardProps }) {
   return (
     <div className="flex-1">
-      <div
-        className="h-[285px] min-w-[560px] flex justify-center"
-        style={{ backgroundColor: colors[project.id - 1] }}
-      >
-        <img className="mt-[50px]" src={project.img} />
-      </div>
-      <div>
-        <div>{project.name}</div>
-        <div>{project.keywords.join(", ")}</div>
-      </div>
+      <Link to={`/${project.name.replace(/\s/g, "")}`}>
+        <div
+          className="h-[285px] min-w-[450px] flex justify-center"
+          style={{ backgroundColor: colors[project.id - 1] }}
+        >
+          <img className="mt-[50px]" src={project.img} />
+        </div>
+        <div>
+          <div>{project.name}</div>
+          <div>{project.keywords.join(", ")}</div>
+        </div>
+      </Link>
     </div>
   );
 }

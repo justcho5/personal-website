@@ -8,7 +8,7 @@
   /* font-family: 'Roboto', sans-serif; */
   /* line-height: 1.5; */
   /* font-weight: 400; */
-  margin: 100px 100px;
+  margin: 0 100px;
   /* color-scheme: light dark; */
   /* color: rgba(255, 255, 255, 0.87); */
   /* background-color: #242424; */
@@ -17,6 +17,11 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+ul {
+  background-color: #ffffff;
+  list-style: disc outside none;
+  padding: 10px 10px 10px 25px;
 }
 /*
 a {

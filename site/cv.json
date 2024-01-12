@@ -1,0 +1,138 @@
+{
+    "experiences": [
+      {
+        "role": "Staff Machine Learning Engineer",
+        "institution":["Alife Health"],
+        "start":"Jun 2023",
+        "end":"Nov 2023",
+        "description":"Led data science efforts for D2C products which included research and development of machine learning models, model deployment, as well as strategy and roadmap planning for patient education, patient counseling, and decision-making tools. Proposed, developed and deployed predictive models with Flask for patient success with IVF. Supported frontend development of SuccessPredictor using React. Collaborated with external stakeholders on research projects on embryo development.",
+        "skills":["python","pandas","scikit-learn","statsmodel","AWS","Flask","ReactJS", "TailwindCSS", "TypeScript"],
+        "projectLink":"#",
+        "projectLinkTitle":"SuccessPredictor",
+        "display": true,
+        "id": 9
+      },
+      {
+        "role": "Senior Data Scientist",
+        "institution": ["Alife Health"],
+        "start": "Mar 2023",
+        "end": "Jun 2023",
+        "description":"Created data pipelines to process and transform raw data for use in analysis and modeling. Implemented convolutional neural networks to analyze embryos images and predict chance of leading to pregnancy. Designed algorithms to detect and crop embryos in images as part of the quality control and pregnancy prediction pipeline. Converted image transformation functions and model to C++. Automated KPI calculations for embryology labs.",
+        "skills":["python","pandas","scikit-learn","statsmodel","PyTorch","AWS", "C++"],
+        "projectLink":"#",
+        "projectLinkTitle":"EmbryoPredict",
+        "display": true,
+        "id": 8
+      },
+      {
+        "role": "Visiting Researcher",
+        "institution": ["Grossman Lab", "UChicago"],
+        "start": "Oct 2019",
+        "end": "Mar 2021",
+        "description":"Designed and built histoXai, an end-to-end system for explaining deep learning predictions of histology images. Explored various CNN explainability methods and applied them to histology deep learning models. Applied machine learning and data science techniques to analyze cancer data, both tabular and image. Implemented deep convolutional neural networks for cancer histology images using Tensorflow 2.0.", 
+        "skills":["python","pandas","pillow","TensorFlow"],
+        "projectLink":"#",
+        "projectLinkTitle":"",
+        "display": true,
+        "id": 7
+      },
+      {
+        "role": "Software Engineer Intern",
+        "institution": ["Flyla Gmbh"],
+        "start": "Jun 2018",
+        "end": "Sep 2018",
+        "description":"Implemented the interface for the Internal Data Analytics Dashboard using ReactJS which keeps track of information such as the number of users, subscriptions, number of emails sent, etc. Contributed to development of backend for Discover product with Django, specifically implemented user authentication and performed CRUD operations on application data deployed on AWS through MongoDB.",
+        "skills":["python","pandas","ReactJS","Django", "MongoDB"],
+        "projectLink":"#",
+        "projectLinkTitle":"",
+        "display": true,
+        "id": 6
+      },
+      {
+        "role": "Frontend Engineer Intern",
+        "institution": ["Skive It, Inc"],
+        "start": "Jun 2016",
+        "end": "Feb 2017",
+        "description":"Implemented the redesign of the Skive it website and iOS mobile application for a more interactive and intuitive user experience using HTML, CSS and Javascript.",
+        "skills":["HTML", "CSS", "JavaScript", "Xcode"],
+        "projectLink":"#",
+        "projectLinkTitle":"",
+        "display": true,
+        "id": 5
+      },
+      {
+        "role": "Graduate Researcher",
+        "institution": ["Lee Lab", "Harvard"],
+        "start": "Jul 2014",
+        "end": "Mar 2017",
+        "description":"Studied how IL-13 and STAT3 signaling affect the regulation of energy metabolism via beiging of white adipose tissue. Specifically, the effect of IL-13 was examined in the context of cold-induced thermogenesis and beiging.",
+        "skills":[],
+        "projectLink":"#",
+        "projectLinkTitle":"",
+        "display":true,
+        "id": 4
+      },
+      {
+        "role": "Fulbright Full Grant Scholar",
+        "institution": ["Zychlinsky Lab", "MPIIB"],
+        "start": "Sep 2013",
+        "end": "May 2014",
+        "description":"Investigated the role of histones as antimicrobials and toxins in Drosophila Melanogaster. Maintained cohorts of wildtype Drosophila Melanogaster and measured molecular changes post-injection of histones using molecular biology techniques.",
+        "skills":[],
+        "projectLink":"#",
+        "projectLinkTitle":"",
+        "display":true,
+        "id": 3
+      },
+      {
+        "role": "Undergraduate Researcher",
+        "institution": ["Lodish Lab", "MIT"],
+        "start": "Nov 2011",
+        "end": "Jun 2013",
+        "description":"Investigated the role of cyclin A2 in red blood cell development and previously studied the regulatory function of non-coding RNAs  in brown adipose development, which has been a critical area of obesity research. Cultured erythroid progenitors purified from mouse fetal livers and knocked down expression of cyclin A2 to study the effect on erythroid differentiation, cell division, and the cell cycle.",
+        "skills":[],
+        "projectLink":"#",
+        "projectLinkTitle":"",
+        "display":true,
+        "id": 2
+      },
+      {
+        "role": "Undergraduate Researcher",
+        "institution": ["Gifford Lab", "MIT"],
+        "start": "Sep 2010",
+        "end": "Sep 2011",
+        "description":"Analyzed and facilitated development of a novel approach to studying protein-DNA binding. Performed thorough analyses through Fluorescence-Activated Cell Sorting (FACS) and obtained qualitative and quantitative results characterizing the degree of binding.",
+        "skills":[],
+        "projectLink":"#",
+        "projectLinkTitle":"",
+        "display":true,
+        "id": 1
+      }
+
+      
+    ],
+    "education":[
+        {
+            "school": "EPFL",
+            "degree":"MSc Computer Science",
+            "yearStart":"2017",
+            "yearEnd":"2020",
+            "id":3
+        },
+        {
+            "school": "Harvard",
+            "degree":"MA Biology",
+            "yearStart":"2014",
+            "yearEnd":"2017",
+            "id":2
+        },
+        {
+            "school": "MIT",
+            "degree":"BSc Biology",
+            "yearStart":"2009",
+            "yearEnd":"2013",
+            "id":1
+        }
+
+    ]
+  }
